@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aquatic01<br>👀 I’m interested in learning to code<br>🌱 I’m currently learning React and C++<br>📒 I’m looking practice and get challenges<br>📫 How to reach me aquaticsky95@live.com
+👋 Hi, I’m @HilarioGreen<br>👀 I’m interested in learning to code<br>🌱 I’m currently learning React and C++<br>📒 I’m looking practice and get challenges<br>📫 How to reach me aquaticsky95@live.com
 
 
 ## 🌐 Socials:
